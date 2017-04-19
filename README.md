@@ -1,6 +1,11 @@
 ## jeju_ML
 
-Suppose there is a icecream shop near by elementary school.
-It is the simple code using Tensor Flow's linear model to predict the quantity and income with the celcius changes.
+Suppose there is an icecream shop near by elementary school.
+It is the simple code using Tensor Flow's linear model to predict three things below:
 
-the file salesprediction.py is the run file.
+  1. the number of students
+  2. quantity of product will sell
+  3. the income
+
+the file "salesprediction.py" is the run file.
+
