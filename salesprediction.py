@@ -9,7 +9,7 @@ while True:
         break
     try:
         temperature = int(temperature)
-        if -50 <= temperature >= 60:
+        if -50 >= temperature >= 60:
             print("적정 온도를 기입해주세요.")
         else:
             total_sale(temperature)
